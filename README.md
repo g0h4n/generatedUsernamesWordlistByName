@@ -1,4 +1,4 @@
-# osint-usernames.py
+# generatedUsernamesWordlistByName.py
 
 ## Description
 
